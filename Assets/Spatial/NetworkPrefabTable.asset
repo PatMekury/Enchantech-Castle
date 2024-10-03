@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b171a581597bb4506962416c4fbb801c, type: 3}
+  m_Name: NetworkPrefabTable
+  m_EditorClassIdentifier: 
+  _prefabGuids:
+  - 8bd526e2ec2174edd83d987437971440
+  - 6dbc27b52c6a4403598f56b259e8e59c
+  - 097b598f3130945c3a3527407fe59dba
+  - f8576935fc67447efb4e90f82b4aa274
+  - 452133ffbc0124f99b6562db3f14478f
